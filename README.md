@@ -1,2 +1,2 @@
-# cafeteria-ls20241-web
-Projeto da disciplina de LS.
+# cafeteria web Grãos Nobres
+Projeto da disciplina de LS 2024.1
