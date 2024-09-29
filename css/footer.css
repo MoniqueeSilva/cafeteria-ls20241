@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap'); /* Importa a fonte 'Rubik' do Google Fonts */
+
+footer {
+    font-family: 'Rubik', sans-serif; /* Define a fonte do footer */
+    overflow: hidden; /* Oculta o conteúdo que transborda o footer */
+    margin-top: 250px; /* Espaço acima do footer */
+    background: #262626; /* Cor de fundo do footer */
+    color: #627482 !important; /* Cor do texto no footer, com prioridade */
+    margin-bottom: 0; /* Remove a margem inferior do footer */
+    padding-bottom: 0; /* Remove o preenchimento inferior do footer */
+}
+
+small {
+    font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important; /* Define um tamanho de fonte responsivo para elementos <small> */
+}
+
+.bold-text {
+    color: #989c9e !important; /* Define a cor do texto para elementos com a classe .bold-text */
+}
+
+.mt-55 {
+    margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important; /* Margem superior responsiva */
+}
+
+h3 {
+    font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important; /* Tamanho de fonte responsivo para elementos <h3> */
+}
+
+.social {
+    font-size: 21px !important; /* Define um tamanho fixo para a fonte dos ícones sociais */
+}
+
+.rights {
+    font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important; /* Tamanho de fonte responsivo para direitos autorais */
+}

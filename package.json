@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "bootstrap": "^5.3.3",
+    "mdbootstrap": "^4.20.0",
+    "package.json": "^2.0.1"
+  }
+}
